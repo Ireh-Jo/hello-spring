@@ -53,3 +53,7 @@ DI에는 필드 주입, setter 주입, 생성자 주입 이렇게 3가지 방법
   라이브러리를 사용하면 된다. Querydsl을 사용하면 쿼리도 자바 코드로 안전하게 작성할 수 있고, 동적
   쿼리도 편리하게 작성할 수 있다. 이 조합으로 해결하기 어려운 쿼리는 JPA가 제공하는 네이티브 쿼리를
   사용하거나, 앞서 학습한 스프링 JdbcTemplate를 사용하면 된다.
+
+## AOP
+- AOP: Aspect Oriented Programming
+- 공통 관심 사항(cross-cutting concern) vs 핵심 관심 사항(core concern) 분리
